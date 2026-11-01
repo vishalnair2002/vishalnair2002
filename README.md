@@ -1,6 +1,6 @@
 # Hi, I'm Vishal 👋
 
-IT graduate and MSc Cybersecurity student, focused on software development and application security. I like building things end-to-end — from the database up through the UI — and then figuring out how to break them (safely) to understand them better.
+IT graduate and MSc Cybersecurity graduate, focused on software development and application security. I like building things end-to-end — from the database up through the UI — and then figuring out how to break them (safely) to understand them better.
 
 - 🎓 Currently pursuing an **MSc Cybersecurity** at Edinburgh Napier University
 - 💻 Background in full-stack development: **C#, ASP.NET Core, Angular, TypeScript**
